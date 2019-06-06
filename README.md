@@ -1,7 +1,7 @@
 # JavaFxSample
 Sample code of using JavaFX
-※
-JavaFX、自己完結型パッケージ学習用のモジュールです。
+
+※JavaFX、自己完結型パッケージ学習用のモジュールです。
 ツールとしては完成度が足りていませんがご了承ください。
 
 【概要】
