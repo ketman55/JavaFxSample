@@ -17,3 +17,13 @@ Sample code of using JavaFX
 ３．output_kuromojiフォルダのテキストファイル群をインプットとして、LDAによるトピック分析を実行
 
 ⇒output_ldaへ出力
+
+【参考】
+
+JavaFX & 自己完結型パッケージでのツール作成（JavaFX編）
+
+https://qiita.com/ketman55/items/dc5d87c37e975a847e1a
+
+JavaFX & 自己完結型パッケージでのツール作成（配布編）
+
+https://qiita.com/ketman55/items/a954dfc2b748559f0920
